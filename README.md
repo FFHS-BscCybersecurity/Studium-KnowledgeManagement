@@ -3,4 +3,4 @@ Meta Repository für Themen rund ums Wissensmanagement
 
 ## Themen
 
-[Obsidian](Obsidian.md)
+[Obsidian](obsidian.md)
